@@ -19,7 +19,7 @@ Various important issues at the center of today's politics are imbued with citiz
 SY: Having smoother transaction from RQ to addressing our design would be better here. Any missing part in existing findings that makes ours differentiate from others?  
 -->
 
-To improve upon approaches in the existing literature, we develop a pre-registered survey experiment. We utilize a randomized experimental process either assigning or allowing free-choice to different media sources. Respondents will be exposed a news article about immigration reported by either Fox News or MSNBC. Along with this manipulation capturing the effect of delivery mode, our survey holds constant news content regardless of news source to see the effect of the messenger. In assessing how respondent attitudes changes or doesn't change toward immigration policies, our experiment aims to examine how variations in the source and delivery mode of corrective information moderates their effectiveness. [approx. 1088ch] 
+To improve upon approaches in the existing literature, we develop a pre-registered survey experiment. We utilize a randomized experimental process either assigning or allowing free-choice to different media sources. Respondents will be exposed to a news article about immigration reported by either Fox News or MSNBC. Along with this manipulation capturing the effect of delivery mode, our survey holds constant the news content regardless of news source to see the effect of the messenger. In assessing how respondents' attitudes change or do not change toward immigration policies, our experiment aims to examine how variations in the source and delivery mode of corrective information moderates their effectiveness. [approx. 1088ch] 
 
 
 <!--
